@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignIn</string>
+
+    <string name="status_signedin">Signed In</string>
+    <string name="status_notsignedin">Not Signed In</string>
+    <string name="status_notconnected">Not Connected</string>
+    <string name="status_nullresult">Null Result</string>
+    <string name="status_signincancelled">Sign In Cancelled</string>
+    <string name="status_signinfail">Sign In Failed</string>
+</resources>
